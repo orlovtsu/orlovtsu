@@ -1,9 +1,8 @@
 ### Hi there 👋
 
 Welcome to my GitHub page. I am going to explain interesting projects which I do as a Data Scientist.
-Previously, I have got experience in many different fields from scientific programming to product management, and now I dive deep into Data Science and am happy to invite you to this fascinating world with me. 
 
-I am looking for interesting project and collabroations in Data Science, Data Analysis and Machine Learning.
+I am open for interesting project and collabroations in Data Science, Data Analysis and Machine Learning.
 
 If you have any questions about these projects or any other interest, please, fill free to contact with me via [LinkedIn](https://www.linkedin.com/in/orlovtsu/), email or phone.
 
