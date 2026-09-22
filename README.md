@@ -1,42 +1,35 @@
-## Senior Data Scientist | ML Engineer | Decisioning & Risk Analytics
+## Senior Data Scientist | Applied ML | Decisioning & Risk
 
-I design and ship machine learning systems that connect raw data to measurable business decisions.
+I design and deploy machine learning systems that connect raw data to measurable business impact.
 
-My work spans the full lifecycle of applied ML: signal discovery, feature engineering, model development, validation, calibration, monitoring, explainability, and deployment support. I focus on building reliable, interpretable, and production-minded systems in domains where data quality, stability, and decision impact matter.
+My work spans the full applied ML lifecycle: signal discovery, feature engineering, model development, validation, calibration, monitoring, explainability, and deployment support. I focus on building reliable, interpretable, and production-minded systems where data quality, model stability, and decision quality matter.
 
-### What I do well
+### Core strengths
 
 - decisioning and risk modeling
-- feature engineering from noisy and irregular real-world data
+- feature engineering from noisy, messy, or irregular data
 - model validation, calibration, and performance diagnostics
 - monitoring drift, stability, and degradation over time
-- document intelligence and OCR reliability evaluation
+- document intelligence and OCR reliability assessment
 - translating technical results into operational decision support
 - building reproducible ML workflows with strong engineering discipline
 
 ### Technical focus
 
 - supervised learning and probabilistic modeling
-- tabular data, behavioral features, and transaction intelligence
-- calibration and thresholding for decision-making systems
-- model lifecycle management, governance, and quality controls
+- tabular and behavioral data, transaction intelligence, and risk signals
+- calibration, thresholding, and policy-aware decisioning
+- model lifecycle governance, quality checks, and monitoring
 - data quality assessment, anomaly detection, and signal validation
-- explainability and practical interpretability for business stakeholders
+- explainability and practical interpretability for stakeholders
 
-### Typical problem areas
+### Where I add value
 
-- credit risk and default-related decision support
-- financial behavior and cashflow signal extraction
-- document understanding and reliability of extraction pipelines
-- model performance under shifting distributions and imperfect data
+- credit and default-related decision support
+- financial behavior and transaction signal extraction
+- document understanding and extraction pipeline reliability
+- model performance under shift, noise, and imperfect data
 - building trust in ML systems through measurement, monitoring, and transparent evaluation
-
-### Current interests
-
-- robust ML systems for production environments
-- feature quality and signal engineering at scale
-- calibration as a business-critical part of model lifecycle
-- decision frameworks that combine quantitative rigor with operational judgment
 
 ### Connect
 
@@ -50,8 +43,8 @@ My work spans the full lifecycle of applied ML: signal discovery, feature engine
 
 ### Highlights
 
-- end-to-end applied ML lifecycle ownership
-- strong emphasis on model quality, calibration, and monitoring
+- end-to-end ML lifecycle ownership
+- strong emphasis on quality, calibration, and monitoring
 - production-minded data science and ML engineering
 - applied work across risk, behavioral analytics, and document intelligence
 - focus on measurable impact, interpretability, and reliable decision support
